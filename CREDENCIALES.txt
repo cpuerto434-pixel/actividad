@@ -1,0 +1,2 @@
+USERNAME =cris
+password=123456
